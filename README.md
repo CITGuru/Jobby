@@ -1,6 +1,6 @@
 # Jobby
 
-A Job Listing Web App
+A Job Listing Web App. http://jobbyio.herokuapp.com
 
 # Installation and Usage
 ```
